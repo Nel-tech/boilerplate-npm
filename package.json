@@ -1,23 +1,24 @@
 {
-  "name": "backend",
-  "dependencies": {
-    "express": "^4.14.0"
-  },
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
-  },
-  "description": "Starting my Backend course on freeCodeCamp",
-  "bugs": {
-    "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
-  },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
-  "version": "1.0.0",
-  "author": "Favour",
-  "keywords": ["new", "backend"],
-  "license": "ISC"
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+	},
+	"version": "1.2.0",
+	"description": "Starting my Backend course on freeCodeCamp",
+	"devDependencies": {},
+	"keywords": ["freecodecamp", "related", "words" ],
+	"author": "favour",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+	},
+	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
 }
